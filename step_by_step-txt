@@ -12,12 +12,10 @@ python -m venv ~/.env/my_second_env
 
 pip install Django
 
-
-
 django-admin startproject Coffe_Shop
 
-
-
 python manage.py --help
+
 # run Django
+
 python manage.py runserver
